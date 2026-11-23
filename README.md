@@ -6,7 +6,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/mayracodee/">LinkedIn</a>
   &nbsp; • &nbsp;
-  <a href="https://mayracodee.vercel.app/">Portfólio</a>
+  <a href="https://mayracodee.github.io/portfolio/">Portfólio</a>
 </p>
 
 ---
